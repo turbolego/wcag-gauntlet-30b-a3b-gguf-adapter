@@ -12,6 +12,8 @@ base_model: Qwen/Qwen3-Coder-30B-A3B-Instruct
 
 # WCAG Gauntlet LoRA Adapter — Qwen3-Coder-30B-A3B (GGUF, F16)
 
+**Mirror:** [Hugging Face — Turbolego/wcag-gauntlet-30b-a3b-gguf-adapter](https://huggingface.co/Turbolego/wcag-gauntlet-30b-a3b-gguf-adapter)
+
 LoRA adapter trained on the **WCAG Gauntlet tool-use skill** for
 `Qwen/Qwen3-Coder-30B-A3B-Instruct`. Converts to an Ollama-ready GGUF
 adapter (218 MB, F16, 672 non-expert LoRA tensor pairs).
